@@ -23,6 +23,7 @@ Habiendo configurado la clave SSH de GITHUB con la del ordenador configuraremos 
 3. Para no cometer errores graves en la unica rama del momento llamada MAIN (rama principal del codigo) realice lo siguiente:
 
 --> Verifique si su ordenador esta en condiciones sin errores de vinculacion para realizar el primer commit (cambio en la rama principal sin autorizacion)
+
 --> Desde la terminal de VS CODE ejecute:
     --> Posisionese en el escritorio y ejecute:
         --> git clone "git@github.com:joaquindev23/LegalIA_Main.git"
@@ -38,3 +39,15 @@ Habiendo configurado la clave SSH de GITHUB con la del ordenador configuraremos 
             --> Guarde el archivo
 
             --> git commit - m "mensaje" 
+
+
+
+# VIDEOS DE REFENCIA QUE ME HAN SERVIDO PARA PODER RESUMIR ESTA ACTIVIDAD
+
+--> https://www.youtube.com/watch?v=niPExbK8lSw
+--> https://www.youtube.com/watch?v=1eEnboVooiY
+--> https://www.youtube.com/watch?v=tFr0Vg1q9Eg
+--> https://www.youtube.com/watch?v=CLpuAyr4Ol0
+--> https://www.youtube.com/watch?v=5us1oHTmPHs
+
+DOCUMENTACION OFICIAL GIT --> https://git-scm.com/doc
