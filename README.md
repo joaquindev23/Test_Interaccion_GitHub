@@ -22,32 +22,32 @@ Habiendo configurado la clave SSH de GITHUB con la del ordenador configuraremos 
 2. Autorice la sesion para vincular Vs code con Cuenta para poder controlar los cambios en las ramificaciones correspondientes mediante su ordenador y cuenta configurada.
 3. Para no cometer errores graves en la unica rama del momento llamada MAIN (rama principal del codigo) realice lo siguiente:
 
---> Verifique si su ordenador esta en condiciones sin errores de vinculacion para realizar el primer commit (cambio en la rama principal sin autorizacion)
+4. Verifique si su ordenador esta en condiciones sin errores de vinculacion para realizar el primer commit (cambio en la rama principal sin autorizacion)
 
---> Desde la terminal de VS CODE ejecute:
-    --> Posisionese en el escritorio y ejecute:
-        --> git clone "git@github.com:joaquindev23/LegalIA_Main.git"
+5. Desde la terminal de VS CODE ejecute:
+    Posisionese en el escritorio y ejecute:
+    1. git clone "git@github.com:joaquindev23/LegalIA_Main.git"
     
-    --> Aprende los comandos git status, git add . y tambien git commit -m "mensaje" en el siguiente link --> https://www.youtube.com/watch?v=CLpuAyr4Ol0
+    2. Aprende los comandos git status, git add . y tambien git commit -m "mensaje" en el siguiente link --> https://www.youtube.com/watch?v=CLpuAyr4Ol0
 
-    --> Mediante el video anterior, pruebe los comandos de git recien aprendidos para mejorar la aplicacion remota en el repositorio
+    3. Mediante el video anterior, pruebe los comandos de git recien aprendidos para mejorar la aplicacion remota en el repositorio
 
-        --> Edite el archivo README.md agregandole lineas de texto en el siguiente espacio
+    4. Edite el archivo README.md agregandole lineas de texto en el siguiente espacio
 
-            --> Edite esta seccion y deje su huella para realizar el primer"
+        1. Edite esta seccion y deje su huella para realizar el primer"
 
-            --> Guarde el archivo
+        2. Guarde el archivo
 
-            --> git commit - m "mensaje" 
+        3. git commit - m "mensaje" 
 
 
 
 # VIDEOS DE REFENCIA QUE ME HAN SERVIDO PARA PODER RESUMIR ESTA ACTIVIDAD
 
---> https://www.youtube.com/watch?v=niPExbK8lSw
---> https://www.youtube.com/watch?v=1eEnboVooiY
---> https://www.youtube.com/watch?v=tFr0Vg1q9Eg
---> https://www.youtube.com/watch?v=CLpuAyr4Ol0
---> https://www.youtube.com/watch?v=5us1oHTmPHs
+1. https://www.youtube.com/watch?v=niPExbK8lSw
+2. https://www.youtube.com/watch?v=1eEnboVooiY
+3. https://www.youtube.com/watch?v=tFr0Vg1q9Eg
+4. https://www.youtube.com/watch?v=CLpuAyr4Ol0
+5. https://www.youtube.com/watch?v=5us1oHTmPHs
 
-DOCUMENTACION OFICIAL GIT --> https://git-scm.com/doc
+6. DOCUMENTACION OFICIAL GIT --> https://git-scm.com/doc
