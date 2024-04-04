@@ -51,3 +51,23 @@ Habiendo configurado la clave SSH de GITHUB con la del ordenador configuraremos 
 5. https://www.youtube.com/watch?v=5us1oHTmPHs
 
 6. DOCUMENTACION OFICIAL GIT --> https://git-scm.com/doc
+
+
+# ¡A COMENZAR!
+
+1. **En primer lugar empezamos a ramificar el proyecto en partes**: Creamos la rama de carpetas para el Back-End/Front-End/API's Key y demas.
+
+
+
+# ¡Instancia Back-End!
+
+2. **Creamos un Entorno Virtual dentro de su raiz Back-End**: Actualmente estoy usando Python 3.10.12 ```python -m venv EntornoVirtual```
+
+3. **Actualizam el paquete de pip**: ```pip install --upgrade pip```
+
+4. **Instalar los Requirimientoss**: ```pip install -r requirements.txt``` 
+
+
+
+# ¡Instancias Front-End!
+
