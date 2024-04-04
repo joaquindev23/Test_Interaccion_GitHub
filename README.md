@@ -65,7 +65,9 @@ Habiendo configurado la clave SSH de GITHUB con la del ordenador configuraremos 
 
 3. **Actualizam el paquete de pip**: ```pip install --upgrade pip```
 
-4. **Instalar los Requirimientoss**: ```pip install -r requirements.txt``` 
+4. **Por el momento no es posible ejecutar la Instalacion de los Requirimientoss, se esta creando el archivo**: ```pip install -r requirements.txt``` 
+
+5. **DATO IMPORRTANTE**: Evite que la carpeta ENTORNOVIRTUAL se suba y se actualice cuando realice los comandos de git, para eso cree un archivo .gitignore y dentro de ella con / asigne la direccion que quiero opacar para que no los suba al repositorio de git hub.
 
 
 
