@@ -1,11 +1,12 @@
 """
-ASGI config for LegalIA project.
+Configuración ASGI para el proyecto LegalIA.
 
-It exposes the ASGI callable as a module-level variable named ``application``.
+Expone el ASGI invocable como una variable a nivel de módulo denominada ``aplicación``.
 
-For more information on this file, see
+Para obtener más información sobre este archivo, consulte
 https://docs.djangoproject.com/en/5.0/howto/deployment/asgi/
 """
+
 
 import os
 

@@ -11,4 +11,7 @@
 
 4. **Instalar los Requerimientos**: Se esta creando el archivo es por eso que no se podra hacerlo de manera directa todos los frameowrk y librerias a usar en el proyecto generalizado 
 
-5. **Creamos un proyecto Django**: django-admin startproject "nombre del proyecto sin comillas"
+5. **Creamos un proyecto Django**: django-admin startproject "LegalIA"
+
+    1. python manage.py makemigrations --> se encarga de la creación de nuevas migraciones basado en los cambios que ha hecho a sus modelos.
+    2. python manage.py migrate --> Sirve para generar y modificar las tablas de la base de datos

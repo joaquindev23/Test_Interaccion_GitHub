@@ -41,6 +41,18 @@ Habiendo configurado la clave SSH de GITHUB con la del ordenador configuraremos 
         3. git commit - m "mensaje" 
 
 
+# CONTROL DE VERSIONES TAGS 
+
+1. Controlaremos las versiones mediante la arquitectura Mayor, Menor y Revision mediante la nomeclatura --> v0.0.0
+2. Actualizamos la version --> v1.0.0 creando las raices generales sin el prijecto django-admin
+3. Actualizamos la version --> v1.1.0 una vez creado el proyecto django-admin debido a las funcionalidades
+3. Actualizaremos la vesion --> v1.1.1 una vez que el codigo se revise junto al equipo
+
+
+# DOCUMENTACION OFICIAL GIT 
+
+1. https://git-scm.com/doc
+
 
 # VIDEOS DE REFENCIA QUE ME HAN SERVIDO PARA PODER RESUMIR ESTA ACTIVIDAD
 
@@ -49,8 +61,9 @@ Habiendo configurado la clave SSH de GITHUB con la del ordenador configuraremos 
 3. https://www.youtube.com/watch?v=tFr0Vg1q9Eg
 4. https://www.youtube.com/watch?v=CLpuAyr4Ol0
 5. https://www.youtube.com/watch?v=5us1oHTmPHs
+6. https://www.youtube.com/watch?v=GG4mftkQVrs
 
-6. DOCUMENTACION OFICIAL GIT --> https://git-scm.com/doc
+
 
 
 # ¡A COMENZAR!

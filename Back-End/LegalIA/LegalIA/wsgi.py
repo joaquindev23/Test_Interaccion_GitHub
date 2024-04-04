@@ -1,9 +1,9 @@
 """
-WSGI config for LegalIA project.
+Configuración WSGI para el proyecto LegalIA.
 
-It exposes the WSGI callable as a module-level variable named ``application``.
+Expone el WSGI invocable como una variable a nivel de módulo denominada ``application``.
 
-For more information on this file, see
+Para obtener más información sobre este archivo, consulte
 https://docs.djangoproject.com/en/5.0/howto/deployment/wsgi/
 """
 
