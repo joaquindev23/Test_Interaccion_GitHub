@@ -1,5 +1,8 @@
 # EntornoVirtual
-
 /EntornoVirtual
 
+# Pycache
+/LegalIA/LegalIA/__pycache__
 
+# Base de datos
+/sqlite3
