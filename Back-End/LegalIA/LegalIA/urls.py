@@ -1,3 +1,5 @@
+#Creada por defecto
+
 """
 Configuración de URL para el proyecto LegalIA.
 
@@ -21,6 +23,7 @@ Ejemplos:
     2. Agregue una URL a urlpatterns: ruta('blog/', include('blog.urls'))
 """
 
+"""
 
 from django.contrib import admin
 from django.urls import path
@@ -28,3 +31,6 @@ from django.urls import path
 urlpatterns = [
     path('admin/', admin.site.urls),
 ]
+
+
+"""
