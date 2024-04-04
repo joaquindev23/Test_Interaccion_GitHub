@@ -55,21 +55,14 @@ Habiendo configurado la clave SSH de GITHUB con la del ordenador configuraremos 
 
 # ¡A COMENZAR!
 
-1. **En primer lugar empezamos a ramificar el proyecto en partes**: Creamos la rama de carpetas para el Back-End/Front-End/API's Key y demas.
+**En primer lugar empezamos a ramificar el proyecto en partes**: Creamos la rama de carpetas para el Back-End/Front-End/API's Key y demas.
+
+1. Back-End
+2. Front-End
+3. Apis 
+ 
 
 
 
-# ¡Instancia Back-End!
 
-2. **Creamos un Entorno Virtual dentro de su raiz Back-End**: Actualmente estoy usando Python 3.10.12 ```python -m venv EntornoVirtual```
-
-3. **Actualizam el paquete de pip**: ```pip install --upgrade pip```
-
-4. **Por el momento no es posible ejecutar la Instalacion de los Requirimientoss, se esta creando el archivo**: ```pip install -r requirements.txt``` 
-
-5. **DATO IMPORRTANTE**: Evite que la carpeta ENTORNOVIRTUAL se suba y se actualice cuando realice los comandos de git, para eso cree un archivo .gitignore y dentro de ella con / asigne la direccion que quiero opacar para que no los suba al repositorio de git hub.
-
-
-
-# ¡Instancias Front-End!
 

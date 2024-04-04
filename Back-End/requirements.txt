@@ -1,0 +1,5 @@
+# Requerimientos para el Back-End
+
+django==5.0.4                
+djangorestframework==3.15.1 
+django-cors-headers==4.3.1 
