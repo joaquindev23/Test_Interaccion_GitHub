@@ -73,14 +73,5 @@ Habiendo configurado la clave SSH de GITHUB con la del ordenador configuraremos 
 1. Back-End
 2. Front-End
 3. Apis 
- 
-
-kjsdhlakjshdlkjasd
-alksjdklasd
-alkjsdlkasjd
-laksjdlkasjd
-kasdlkajsd
-
-
 
 
