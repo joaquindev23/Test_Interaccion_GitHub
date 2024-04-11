@@ -75,3 +75,14 @@ Habiendo configurado la clave SSH de GITHUB con la del ordenador configuraremos 
 3. Apis 
 
 
+
+-----
+
+
+# Dolores inmediatos
+
+1. Redactar demandas, escrito y hacer un analisis de casos 
+
+2. Para que esto suceda hay que alimentar una base de datos que tedra el criterio de analisis 
+
+

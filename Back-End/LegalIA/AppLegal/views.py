@@ -1,5 +1,6 @@
 # estamos en AppLegal/views.py
-# Aquí se definen las vistas de la API RESTful que se utilizarán para manejar los documentos y plantillas en la aplicación LegalIA.
+# Aquí se definen las vistas de la API RESTful que se utilizarán para manejar los documentos 
+# y plantillas en la aplicación LegalIA.
 from django.http import HttpResponse, Http404
 from rest_framework.views import APIView
 from rest_framework import viewsets, status

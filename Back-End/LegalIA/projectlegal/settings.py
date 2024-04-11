@@ -23,8 +23,8 @@ INSTALLED_APPS = [
     'rest_framework',
     'corsheaders',
     'rest_framework.authtoken',
-    #'django_extensions',
-    #'coreapi'
+    'django_extensions',
+    'coreapi'
 ]
 
 MIDDLEWARE = [
@@ -40,7 +40,7 @@ MIDDLEWARE = [
 
 # Configura los dominios permitidos
 CORS_ALLOWED_ORIGINS = [
-    "http://localhost:4200",  # Angular CLI default
+    "http://localhost:5173",  # React Native CLI default
     # Añade otros dominios según sea necesario
 ]
 ROOT_URLCONF = 'projectlegal.urls'

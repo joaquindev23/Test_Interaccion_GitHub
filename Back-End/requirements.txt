@@ -17,8 +17,5 @@ python-docx==1.1.0
 
 
 
-#Falta > Estan comentadas en el archivo .settings.py
 
-#'django_extensions',
-#'coreapi'
 
